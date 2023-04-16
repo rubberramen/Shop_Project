@@ -30,7 +30,10 @@
 
 ### 5. UI 샘플
 <img width="1221" alt="20230406211846" src="https://user-images.githubusercontent.com/96553431/230376875-f7bf82d3-0720-4939-a850-0407da6fb6d5.png">
-
+<img width="950" alt="20230416142846" src="https://user-images.githubusercontent.com/96553431/232272977-72582db9-93e6-48c1-9161-385bb1f78820.png">
+<img width="949" alt="20230416142905" src="https://user-images.githubusercontent.com/96553431/232272988-f3333ebe-e061-4146-9afc-c0eb62bb2830.png">
+<img width="957" alt="20230416142936" src="https://user-images.githubusercontent.com/96553431/232272989-3d083560-fda1-4ef4-b3ab-28b430f14b0f.png">
+<img width="952" alt="20230416142948" src="https://user-images.githubusercontent.com/96553431/232272991-d33c21fd-4d9b-43f0-a6b9-924aec997dac.png">
 
 
 ### 6. 추가 개발 계획
